@@ -9,9 +9,15 @@ In my dataset, each row corresponds to an independent marketing promotion, where
 
 
 To address this request, I use a one-way ANOVA test to determine if there is a statistically significant difference in sales among groups. This includes:
+
 •	Using plots and descriptive statistics to select a categorical independent variable
+
 •	Creating and fitting a linear regression model with the selected categorical independent variable
+
 •	Checking model assumptions
+
 •	Performing and interpreting a one-way ANOVA test
+
 •	Comparing pairs of groups using an ANOVA post hoc test
+
 •	Interpreting model outputs and communicating the results to nontechnical stakeholders
